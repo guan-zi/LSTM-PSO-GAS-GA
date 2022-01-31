@@ -1,0 +1,17 @@
+numpy>=1.12
+scipy>=0.19
+pathos>=0.2.1
+
+[dev]
+pycodestyle
+black
+isort
+
+[doc]
+sphinx
+sphinx_rtd_theme
+numpydoc
+
+[test]
+pytest
+codecov
